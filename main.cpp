@@ -13,7 +13,7 @@ ProductManager mgr;
 void acceptProducts(){
 	for (int i = 1; i <=3 ; i++) 
     {
-    	 cout<<"\n Enter flower Title mauli  :";
+    	 cout<<"\n Enter flower Title rishabh  :";
     	 string title;
     	 getline(cin>>ws, title);
 		 Product p(i, title);
